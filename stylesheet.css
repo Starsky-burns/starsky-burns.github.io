@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html {
+  font-size: 1rem;
+}
+
+body {
+  background-color: #3d405b;
+}
+
+h1 {
+  font-family: Montserrat;
+  font-weight: 900;
+  font-size: 2rem;
+  color: #f4f1de;
+  padding-top: 2rem;
+}
+
+h2 {
+  font-family: Montserrat;
+  font-weight: 800;
+  color: #f4f1de;
+}
+
+p {
+  font-family: Montserrat;
+  font-weight: 800;
+  font-size: 1.2rem;
+  color: #f4f1de;
+}
+
+.col-3 {
+  font-family: Montserrat;
+  font-weight: 800;
+  color: #f4f1de;
+}
+
+.col-8 {
+  font-family: Montserrat;
+  font-weight: 800;
+  color: #f4f1de;
+}
+
+.Monzo {
+  text-decoration: none;
+  color: #e07a5f;
+}
+
+.rwi {
+  color: #f2cc8f;
+}
+
+.cv {
+  color: #247ba0;
+}
+
+.twitter {
+  color: #1DA1F2;
+}
+
+@media (min-width: 576px) {
+    html { font-size: 1.25rem; }
+}
+@media (min-width: 768px) {
+    html { font-size: 1.5rem; }
+}
+@media (min-width: 992px) {
+    html { font-size: 1.75rem; }
+}
+@media (min-width: 1200px) {
+    html { font-size: 2rem; }
+}
