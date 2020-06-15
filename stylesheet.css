@@ -59,7 +59,7 @@ p {
 }
 
 .medium {
-  color: ghostwhite;
+  color: white;
 }
 
 @media (min-width: 576px) {
