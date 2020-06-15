@@ -58,6 +58,10 @@ p {
   color: #1DA1F2;
 }
 
+.medium {
+  color: ghostwhite;
+}
+
 @media (min-width: 576px) {
     html { font-size: 1.25rem; }
 }
