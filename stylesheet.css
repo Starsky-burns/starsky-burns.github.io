@@ -29,6 +29,12 @@ p {
   color: #f4f1de;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .col-3 {
   font-family: Montserrat;
   font-weight: 800;
