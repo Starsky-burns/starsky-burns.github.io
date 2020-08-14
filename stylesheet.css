@@ -138,6 +138,19 @@ a {
   color: transparent;
 }
 
+.kofi-button {
+  background-image: linear-gradient(to right, #ddd6f3 0%, #faaca8 100%);
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-color: initial;
+  color: transparent;
+}
+
 @media (min-width: 576px) {
     html { font-size: 1.25rem; }
 }
