@@ -5,150 +5,72 @@ html {
 }
 
 body {
+  font-family: Montserrat;
+  color: #f4f1de;
   background-color: rgb( 12, 13, 23);
 }
 
 h1 {
-  font-family: Montserrat;
   font-weight: 900;
   font-size: 2rem;
   padding-top: 1.5rem;
   background-image: linear-gradient(to right, rgb(240, 147, 251) 0%, rgb(245, 87, 108) 100%);
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-color: initial;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   color: transparent;
 }
 
-h2 {
-  font-family: Montserrat;
-  font-weight: 800;
-  color: #f4f1de;
-}
-
 p {
-  font-family: Montserrat;
   font-weight: 600;
-  font-size: 1.2rem;
-  color: #f4f1de;
+  font-size: 1.05rem;
 }
 
-a {
-  font-weight: 800;
+b {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+hr {
+  background-color: #f4f1de;
+  height: 1px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  overflow: visible;
 }
 
-.col-3 {
-  font-family: Montserrat;
-  font-weight: 800;
-  color: #f4f1de;
-}
-
-.col-8 {
-  font-family: Montserrat;
-  font-weight: 800;
-  color: #f4f1de;
-}
-
-.Monzo {
-  text-decoration: none;
-  background-image: linear-gradient(to right, #009FFF 0%, #ec2F4B 100%);
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-color: initial;
+.gradient {
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   color: transparent;
+  font-weight: 800;
+}
+
+.Monzo {
+  background-image: linear-gradient(to right, #009FFF 0%, #ec2F4B 100%);
 }
 
 .rwi {
   background-image: linear-gradient(to right, #f12711 0%, #f5af19 100%);
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-color: initial;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  color: transparent;
+}
+
+.fwc {
+  background-image: linear-gradient(to right, rgb(240, 147, 251) 0%, rgb(245, 87, 108) 100%);
 }
 
 .cv {
   background-image: linear-gradient(to right, #3CA55C 0%, #B5AC49 100%);
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-color: initial;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  color: transparent;
 }
 
 .twitter {
   background-image: linear-gradient(to right, #74ebd5 0%, #ACB6E5 100%);
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-color: initial;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  color: transparent;
 }
 
 .medium {
   background-image: linear-gradient(to right, #8e9eab 0%, #eef2f3 100%);
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-color: initial;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.kofi-button {
-  background-image: linear-gradient(to right, #ddd6f3 0%, #faaca8 100%);
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-color: initial;
-  color: transparent;
 }
 
 @media (min-width: 576px) {
