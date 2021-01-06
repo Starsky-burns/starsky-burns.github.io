@@ -73,6 +73,10 @@ hr {
   background-image: linear-gradient(to right, #8e9eab 0%, #eef2f3 100%);
 }
 
+.itch {
+  background-image: linear-gradient(to right, #0f0c29 0%, #302b63 50%, #24243e 100%);
+}
+
 @media (min-width: 576px) {
     html { font-size: 1.25rem; }
 }
