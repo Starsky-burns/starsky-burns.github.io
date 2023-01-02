@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "471f01468e1525f1",
+            "id": "43fd6b9286d74f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello!.md",
+                "file": "portfolio/Filmmakers Without Cameras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c43bbe00b83313a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "portfolio/Milk Bar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da1d8a12ec1492e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "portfolio/Unexplained Scotland.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello!.md",
+                "file": "portfolio/Unexplained Scotland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello!.md",
+                "file": "portfolio/Unexplained Scotland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello!.md"
+                "file": "portfolio/Unexplained Scotland.md"
               }
             }
           }
@@ -146,6 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee55f346237fbd52",
-  "lastOpenFiles": []
+  "active": "da1d8a12ec1492e2",
+  "lastOpenFiles": [
+    "portfolio/Milk Bar.md",
+    "portfolio/Filmmakers Without Cameras.md",
+    "portfolio/Transmission For Them.md",
+    "portfolio/_index.md",
+    "work/Transmission For Them.md",
+    "work/_index.md",
+    "articles/Failures of the world, unite!.md",
+    "articles/_index.md",
+    "_index.md",
+    "articles/hello!.md"
+  ]
 }

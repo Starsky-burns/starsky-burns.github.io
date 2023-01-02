@@ -2,3 +2,42 @@ baseURL = 'https://starsky-burns.github.io'
 languageCode = 'en-us'
 title = 'Eryk Sawicki'
 theme = 'digitalgarden'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+  [[menu.main]]
+    name = 'Articles'
+    url = '/articles'
+    weight = 3
+  [[menu.main]]
+    name = 'Portfolio'
+    url = '/portfolio'
+    weight = 4
+
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 5
+    [[menu.main]]
+    name = 'Peregrine Coast Press'
+    url = 'https://peregrinecoast.press'
+
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com/peregrine_coast'
+  weight = 1
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:eryk@hey.com'
+  weight = 2
+[[menu.social]]
+  name = 'RSS'
+  url = '/articles/index.xml'
+  weight = 9
