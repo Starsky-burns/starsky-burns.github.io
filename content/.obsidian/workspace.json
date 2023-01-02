@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5d32babb56f1f08",
+        "id": "d39630c6c09715d4",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb940f2b7dab7f7",
+            "id": "282fc1c984225417",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/Twinery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/Twinery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "articles/Twinery.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee55f346237fbd52",
+  "active": "282fc1c984225417",
   "lastOpenFiles": [
+    "articles/Twinery.md",
     "articles/Failures of the world, unite!.md",
     "portfolio/Unexplained Scotland.md",
     "portfolio/Milk Bar.md",
@@ -152,7 +149,6 @@
     "portfolio/_index.md",
     "work/Transmission For Them.md",
     "work/_index.md",
-    "articles/_index.md",
-    "_index.md"
+    "articles/_index.md"
   ]
 }

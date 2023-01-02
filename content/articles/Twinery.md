@@ -1,5 +1,5 @@
 ---
-title: Twinery: Affect and Humour
+title: Twinery - Affect and Humour
 ---
 
 # Introduction 
