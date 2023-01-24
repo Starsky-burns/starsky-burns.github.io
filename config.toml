@@ -28,16 +28,16 @@ theme = 'digitalgarden'
     [[menu.main]]
     name = 'Now'
     url = '/now'
-    weight = 1
+    weight = 6
     [[menu.main]]
     name = 'log'
     url = '/log'
-    weight = 2
+    weight = 7
 
 [[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 6
+  weight = 8
     [[menu.main]]
     name = 'Peregrine Coast Press'
     url = 'https://peregrinecoast.press'
