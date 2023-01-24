@@ -11,11 +11,52 @@
             "id": "282fc1c984225417",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "articles/Failures of the world, unite!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e47deef0485664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "portfolio/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efb0fb68e4297e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "portfolio/Filmmakers Without Cameras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5e39aeb00f093c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/Log.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personal/Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/Log.md"
+              }
             }
           }
         ]
@@ -138,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "282fc1c984225417",
+  "active": "3d5e39aeb00f093c",
   "lastOpenFiles": [
-    "articles/Twinery.md",
-    "articles/Failures of the world, unite!.md",
+    "portfolio/Transmission For Them.md",
     "portfolio/Unexplained Scotland.md",
     "portfolio/Milk Bar.md",
     "portfolio/Filmmakers Without Cameras.md",
-    "portfolio/Transmission For Them.md",
+    "personal/Log.md",
+    "personal/_index.md",
     "portfolio/_index.md",
-    "work/Transmission For Them.md",
-    "work/_index.md",
-    "articles/_index.md"
+    "articles/Failures of the world, unite!.md",
+    "articles/hello!.md",
+    "articles/Twinery.md"
   ]
 }
