@@ -25,6 +25,14 @@ theme = 'digitalgarden'
   name = 'Personal'
   params.header = true
   weight = 5
+    [[menu.main]]
+    name = 'Now'
+    url = '/now'
+    weight = 1
+    [[menu.main]]
+    name = 'log'
+    url = '/log'
+    weight = 2
 
 [[menu.main]]
   name = 'Links'
