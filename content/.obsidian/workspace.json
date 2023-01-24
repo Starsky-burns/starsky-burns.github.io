@@ -54,9 +54,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "254b1a931c9e2ddf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e4eb6de1bb984ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "personal/_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72bc54c9b74bcc8d",
+  "active": "ee55f346237fbd52",
   "lastOpenFiles": [
+    "personal/_index.md",
+    "personal/Now/_index.md",
     "personal/Now.md",
     "personal/Log.md",
+    "personal/Log/_index.md",
     "_index.md",
-    "personal/_index.md",
     "articles/_index.md",
     "portfolio/Filmmakers Without Cameras.md",
     "articles/Twinery.md",
-    "articles/Failures of the world, unite!.md",
-    "articles/hello!.md",
-    "portfolio/Unexplained Scotland.md"
+    "articles/Failures of the world, unite!.md"
   ]
 }
