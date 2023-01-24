@@ -20,6 +20,10 @@ theme = 'digitalgarden'
     name = 'Portfolio'
     url = '/portfolio'
     weight = 4
+  [[menu.main]]
+    name = 'Personal'
+    url = '/personal'
+    weight = 5
 
 [[menu.main]]
   name = 'Links'
