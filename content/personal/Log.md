@@ -1,5 +1,5 @@
 ---
-title: 'Success/Fail Log'
+title: 'Log'
 ---
 
 #January
