@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "3d5e39aeb00f093c",
+            "id": "72bc54c9b74bcc8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Log.md",
+                "file": "personal/Now.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/Log.md",
+                "file": "personal/Now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/Log.md",
+                "file": "personal/Now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/Log.md"
+                "file": "personal/Now.md"
               }
             }
           }
@@ -183,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee55f346237fbd52",
+  "active": "72bc54c9b74bcc8d",
   "lastOpenFiles": [
+    "portfolio/Filmmakers Without Cameras.md",
+    "personal/Log.md",
+    "personal/Now.md",
     "personal/_index.md",
     "_index.md",
-    "personal/Log.md",
     "articles/Twinery.md",
     "articles/_index.md",
     "articles/Failures of the world, unite!.md",
     "articles/hello!.md",
-    "portfolio/Unexplained Scotland.md",
-    "portfolio/Transmission For Them.md",
-    "portfolio/Milk Bar.md"
+    "portfolio/Unexplained Scotland.md"
   ]
 }
