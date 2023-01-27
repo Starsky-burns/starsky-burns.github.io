@@ -67,12 +67,28 @@
             "id": "9e4eb6de1bb984ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "personal/Log/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba8413200b516a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_log.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_log.md"
+              }
             }
           }
         ]
@@ -195,17 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee55f346237fbd52",
+  "active": "ba8413200b516a46",
   "lastOpenFiles": [
-    "personal/_index.md",
+    "personal/Log/_index.md",
     "personal/Now/_index.md",
+    "_index.md",
+    "articles/Failures of the world, unite!.md",
+    "personal/_index.md",
     "personal/Now.md",
     "personal/Log.md",
-    "personal/Log/_index.md",
-    "_index.md",
     "articles/_index.md",
     "portfolio/Filmmakers Without Cameras.md",
-    "articles/Twinery.md",
-    "articles/Failures of the world, unite!.md"
+    "articles/Twinery.md"
   ]
 }
