@@ -67,12 +67,8 @@
             "id": "9e4eb6de1bb984ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/Log/_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -86,9 +82,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16783ecb77c05b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "now.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log.md",
+                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log.md",
+                "file": "now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log.md"
+                "file": "now.md"
               }
             }
           }
@@ -215,17 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba8413200b516a46",
+  "active": "16783ecb77c05b29",
   "lastOpenFiles": [
-    "personal/Log/_index.md",
+    "log.md",
+    "now.md",
+    "personal/_index.md",
     "personal/Now/_index.md",
+    "personal/Log/_index.md",
     "_index.md",
     "articles/Failures of the world, unite!.md",
-    "personal/_index.md",
     "personal/Now.md",
     "personal/Log.md",
-    "articles/_index.md",
-    "portfolio/Filmmakers Without Cameras.md",
-    "articles/Twinery.md"
+    "articles/_index.md"
   ]
 }
