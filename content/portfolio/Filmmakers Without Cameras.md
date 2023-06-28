@@ -1,4 +1,0 @@
----
-title: 'Filmmakers Without Cameras'
----
-

@@ -23,24 +23,16 @@
             "id": "13e47deef0485664",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "portfolio/_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "efb0fb68e4297e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "portfolio/Filmmakers Without Cameras.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -75,12 +67,8 @@
             "id": "ba8413200b516a46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -94,9 +82,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c09981a59ae4fec3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "now.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -223,17 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16783ecb77c05b29",
+  "active": "ee55f346237fbd52",
   "lastOpenFiles": [
-    "log.md",
-    "now.md",
-    "personal/_index.md",
-    "personal/Now/_index.md",
-    "personal/Log/_index.md",
-    "_index.md",
+    "articles/Twinery.md",
+    "articles/hello!.md",
     "articles/Failures of the world, unite!.md",
-    "personal/Now.md",
-    "personal/Log.md",
-    "articles/_index.md"
+    "articles/_index.md",
+    "personal/_index.md",
+    "_index.md",
+    "now.md",
+    "portfolio.pdf",
+    "log.md",
+    "portfolio/Unexplained Scotland.md"
   ]
 }

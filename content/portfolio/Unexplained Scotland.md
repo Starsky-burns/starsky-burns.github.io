@@ -1,4 +1,0 @@
----
-titles: 'Unexplained Scotland'
----
-
