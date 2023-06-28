@@ -18,7 +18,7 @@ theme = 'digitalgarden'
     weight = 3
   [[menu.main]]
     name = 'Portfolio'
-    url = '/portfolio'
+    url = '/portfolio.pdf'
     weight = 4
 
 [[menu.main]]
